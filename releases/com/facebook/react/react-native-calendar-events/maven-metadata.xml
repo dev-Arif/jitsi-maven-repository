@@ -3,10 +3,10 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-calendar-events</artifactId>
   <versioning>
-    <release>2.0.0-jitsi-5869227</release>
+    <release>2.0.0-jitsi-5869562</release>
     <versions>
-      <version>2.0.0-jitsi-5869227</version>
+      <version>2.0.0-jitsi-5869562</version>
     </versions>
-    <lastUpdated>20201110062733</lastUpdated>
+    <lastUpdated>20201110072300</lastUpdated>
   </versioning>
 </metadata>
